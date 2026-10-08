@@ -1,0 +1,18 @@
+[
+  { "q": "How many days of paid annual leave do employees get?", "doc": "leave-policy.md", "expect": "24 days" },
+  { "q": "How many unused annual leave days carry over?", "doc": "leave-policy.md", "expect": "5 unused days" },
+  { "q": "When is a doctor's note required for sick leave?", "doc": "leave-policy.md", "expect": "three consecutive days" },
+  { "q": "How much parental leave do primary caregivers get?", "doc": "leave-policy.md", "expect": "16 weeks" },
+  { "q": "Who must approve business travel before booking?", "doc": "expenses.md", "expect": "line manager" },
+  { "q": "Within how many days must expense receipts be submitted?", "doc": "expenses.md", "expect": "30 days" },
+  { "q": "What is the daily meal allowance while travelling?", "doc": "expenses.md", "expect": "45 US dollars" },
+  { "q": "After how many minutes of inactivity must laptops lock?", "doc": "security.md", "expect": "5 minutes" },
+  { "q": "How quickly must a lost or stolen device be reported?", "doc": "security.md", "expect": "1 hour" },
+  { "q": "Which region must customer data stay in?", "doc": "security.md", "expect": "EU region" },
+  { "q": "How long does standard freight delivery take?", "doc": "shipping-sla.md", "expect": "5 business days" },
+  { "q": "How soon must customers report damaged goods?", "doc": "shipping-sla.md", "expect": "48 hours" },
+  { "q": "How often are tracking updates refreshed?", "doc": "shipping-sla.md", "expect": "15 minutes" },
+  { "q": "What is the company's stock option vesting schedule?", "doc": null },
+  { "q": "Who is the CEO of the company?", "doc": null },
+  { "q": "What is the dress code for client meetings?", "doc": null }
+]
